@@ -60,11 +60,10 @@ A monochrome version of the default theme with mostly neutral colors.
 
 ![image](/assets/monochrome.png)
 
-### tokyo-night
+### rose pine
 
-A clean ~~Visual Studio Code~~ Discord theme that celebrates the lights of Downtown Tokyo at night.
-based on VSCode theme ["tokyo-night"](https://github.com/tokyo-night/tokyo-night-vscode-theme).
+based on the main palette of [rose pine](https://rosepinetheme.com/palette/).
 
-[theme file](https://github.com/refact0r/system24/blob/main/theme/flavors/tokyo-night.theme.css)
+[theme file](https://github.com/refact0r/system24/blob/main/theme/flavors/rosepine.theme.css)
 
-![image](/assets/tokyo-night.png)
+![image](/assets/rosepine.png)
